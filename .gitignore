@@ -1,0 +1,13 @@
+# Ignoruj pliki wygenerowane przez Node.js
+node_modules/
+
+# Ignoruj pliki związane z konfiguracją IDE
+.vscode/
+.idea/
+
+# Ignoruj pliki wygenerowane podczas działania aplikacji
+/build/
+/dist/
+
+# Ignoruj pliki konfiguracyjne lokalne
+.env
